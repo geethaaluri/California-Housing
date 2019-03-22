@@ -1,6 +1,6 @@
 # California-Housing
 The California housing data set contains information from the 1990 California census. 
-The summary stats of the California housing based on 1990 Census data is described by the 10 columns below:
+The summary stats of the California housing is described by the 10 columns below:
 
 longitude
 
